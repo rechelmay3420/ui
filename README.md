@@ -1,1 +1,5 @@
-# ui
+# What is UI?
+
+[User interface](https://www.eleken.co/blog-posts/ux-strategy-what-it-is-and-how-to-create-it) (UI) is anything an individual may connect with in operation a digital service or product. It concentrated on just how an item's appearance and also feature. This consists of every little thing from screens and also touchscreens, key-boards, sounds and even lights. The most effective UI designs are easy, regular, unnoticeable as well as encourage the customer.
+
+In website development, UI plays an important duty in a user's decision to remain on an internet site or leave instantly. Just like the growth of technology, UI designer's function has actually advanced as systems, choices, expectations, and also ease of access. Now UI developers function not just on computer system interfaces, however smart phones, increased and virtual reality, and also "invisible" or screenless interface (additionally referred to as zero UI) like voice, gesture as well as light. The objective of a UI developer is to develop a user interface that is appealing as well as develops a psychological action from the user to make the item a lot more stunning.
